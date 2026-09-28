@@ -1,6 +1,6 @@
 # Converse — Generathon 2026
 
-Creative workspace for the **Sell the Feeling — Ads** track: an emotional Gen-AI product ad exploring **“One Sneaker, Every Generation.”** The repository contains a bilingual selection board, original exploratory images, short transition tests, generation records and working story notes.
+Creative workspace for the **Sell the Feeling — Ads** track: an emotional Gen-AI product ad exploring **“One Sneaker, Every Generation.”** The repository contains a bilingual selection board, original exploratory images, short transition tests, generation records and working story notes: https://claude.ai/artifact/SUweJN3xC5VXzpt3tUrL4X
 
 ## Current direction
 
